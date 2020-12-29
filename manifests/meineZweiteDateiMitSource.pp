@@ -1,3 +1,3 @@
-file { '/etc/tmp-puppet/testdatei.txt':
+file { '/etc/testdatei.txt':
   source => '/examples/files/textDatei.txt',
 }
