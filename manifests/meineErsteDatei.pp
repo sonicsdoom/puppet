@@ -1,4 +1,4 @@
 file { '/tmp/meineDatei':
   ensure  => present,
-  content => 'Hallo neue Datei\n',
+  content => 'Hallo Dritte neue Datei\n',
 }
